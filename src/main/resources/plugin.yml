@@ -1,0 +1,10 @@
+name: wise-tools
+version: '1.0.0'
+author: iBatek
+website: https://www.wisemc.pl
+api-version: '1.21.4'
+main: pl.batek.WiseMain
+load: POSTWORLD
+depend:
+  - LuckPerms
+  - Vault
